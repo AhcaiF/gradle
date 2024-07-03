@@ -52,3 +52,4 @@ Enjoy first-class Gradle support in your IDE of choice.
 If you're looking to contribute to Gradle or provide a patch/pull request, you can find more info [here](https://github.com/gradle/gradle/blob/master/CONTRIBUTING.md).
 
 This project adheres to the [Gradle Code of Conduct](https://gradle.org/conduct/). By participating, you are expected to uphold this code.
+kolibri-0.16.1.dev0+git.20240501002658-0.1.0-debug
